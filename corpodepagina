@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pontos turisticos na europa</title>
+</head>
+<header>
+    <h1> Pontos turisticos na europa </h1>
+</header>
+<section>
+    <h3> Confira abaixo os 2 pontos turísticos imperdíveis na Europa:</h3>
+</section>
+<aside>
+    <ul>
+        <li> Itália (Coliseu - Roma) </li>
+        <br>
+        <img src="https://imaginanaviagem.com/wp-content/uploads/2016/06/coliseu.jpg" width="300">
+        <p>Além de sua beleza incontestável, a construção tem também enorme importância histórica.
+        Era ali, na arena que hoje é aberta a visitação e recebe algo em torno de 4 milhões de turistas por ano, que aconteciam as famosas e mais importantes batalhas dos gladiadores romanos </p>
+        <br>
+        <br>
+        <li> França (Torre Eifeel – Paris) </li>
+        <br>
+        <img src="https://imaginanaviagem.com/wp-content/uploads/2016/06/Torre-Eiffel.jpg" width="300">
+        <p> São cerca de 325 metros de altura, mais de 7 mil toneladas de aço e um número incontável de olhares e sorrisos aos seus pés.</p>
+        <p> Comprando seus tickets online você poupa tempo e pode aproveitar com mais tranquilidade e calma o visual belíssimo que se tem lá de cima</p>
+    </ul>
+</aside>
+<footer>
+    <span> Para mais dicas acesse: </span>
+    <ul>
+        <li><a href="instagram.com/teste"> Visite Europa </a></li>
+    </ul>
+</footer>
+
+</html>
